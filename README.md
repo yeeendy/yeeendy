@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B7CFF7,50:87C4FF,85:E0F4FF&height=150&section=header&text=WelCome+To+Yeeendy's+Github&fontSize=40&fontColor=F2E0D0&animation=scaleIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B7CFF7,50:87C4FF,85:96EFFF&height=150&section=header&text=WelCome+To+Yeeendy's+Github&fontSize=40&fontColor=FFF78A&animation=scaleIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer!&font=Fira%40Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
