@@ -28,4 +28,4 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeendy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeendy&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeendy&layout=compact) -->
